@@ -1,0 +1,15 @@
+                Variables
+Es una caja que me permite guardar informacion para usarla mas tarde.
+                 Strings
+Es un pedaso de texto que se define por comillas 
+
+      Funciones (argumentos, return)
+son indicaciones que se le dan a javas para que me devuelva un resultado determinado
+return lo usamos cuando queremos que los datos salgan fuera de la funcion
+       
+               Declaraciones if
+es una condicional, que es español seria si..
+
+         Valores booleanos (true, false)
+
+         Utilisamos booleanos para determinar si algo es verdadero o falso
