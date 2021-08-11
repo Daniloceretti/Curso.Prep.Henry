@@ -1,0 +1,9 @@
+             for
+es una de las dos expresiones que tiene incorporada javascript. evalia expresiones una y otra vez, repetidamente
+             &&
+es un operador logico y se lo traduce como Y o AND. Sus expresiones seran  true si ambas son tru y si una o ambas son false seran false
+             ||
+es otro operador logico y se lo traduce como O / OR.
+             !
+
+ES un operador logico de negacion , NOT.
