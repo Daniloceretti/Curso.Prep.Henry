@@ -1,0 +1,5 @@
+Objetos:en una coleccion de propiedad
+Propiedades: es una asociacion entre un nombre y un valor
+Métodos: Son las funciones guardadas en un objeto
+Bucle for…in:
+Notación de puntos vs notación de corchetes:
